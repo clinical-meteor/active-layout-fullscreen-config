@@ -18,5 +18,5 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('clinical:active-layout-default-config');
+  api.use('clinical:active-layout-fullscreen-config');
 });
